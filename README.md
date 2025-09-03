@@ -1,4 +1,4 @@
-# 🎓 Linkeder - AI-Powered Student Recruitment Platform
+# 🎓 Linkeder - AI-Powered Connection Platform
 
 A conversational AI platform that enables intelligent querying of university student profiles using Retrieval-Augmented Generation (RAG) architecture. Built with OpenAI GPT-4, Chroma vector database, and Streamlit for seamless user interactions.
 
