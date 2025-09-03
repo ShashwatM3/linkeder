@@ -7,8 +7,8 @@ from rich.live import Live
 from rich.spinner import Spinner
 import streamlit as st
 
-st.title("Welcome to Linkeder")
-st.subheader("Ask questions about the :blue[Linkedin] university student base")
+st.title("Welcome to :blue[Linkeder]")
+st.subheader("Ask questions about a :red[700+] profile university student base")
 st.text("Note: All data is fake")
 st.divider()
 
